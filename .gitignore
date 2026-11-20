@@ -1,0 +1,18 @@
+
+# compiled executables
+*.o
+*.out
+*.exe
+*.app
+*.dSYM/
+
+# build scripts
+Makefile
+makefile
+*.sh
+*.command
+*.bat
+*.ps1
+
+# macOS system files
+.DS_Store
